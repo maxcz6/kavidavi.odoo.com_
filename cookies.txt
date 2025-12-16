@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kavidavi.odoo.com	TRUE	/	FALSE	1999999999	frontend_lang	es_419
+kavidavi.odoo.com	TRUE	/	FALSE	1999999999	session_id	v0sx8r4rpFcKTKpFPDX_FdAOl8PRzhX0AMkSNSiHVVKUvx2_UkFMF04yhLbR4OYgnSgCNLeoxyk7hGgqBC1C
+kavidavi.odoo.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
